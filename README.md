@@ -1,9 +1,10 @@
-
 Dynamic Widget Dashboard ⚡
 
 React TailwindCSS
 
 Dynamic Widget Dashboard is a modern, responsive dashboard application built from scratch with React and Tailwind CSS. Users can interact with dynamic widgets and enjoy a clean, customizable interface.
+
+🔗 Live Demo: View Live Demo
 
 Features ✨
 
