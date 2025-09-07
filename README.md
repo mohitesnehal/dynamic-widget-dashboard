@@ -5,15 +5,21 @@ Dynamic Widget Dashboard is a modern, responsive dashboard application built fro
 ## Features ✨
 
 -Fully dynamic and interactive widgets.
+
 -Responsive design with Tailwind CSS.
+
 -Component-driven architecture for scalability.
+
 -Easy to extend with new widgets, themes, and layouts.
 
 ## Tech Stack 🛠
 
 -Frontend: React.js
+
 -Styling: Tailwind CSS
+
 -Build Tool: Vite
+
 -TypeScript: For type safety and maintainability
 
 # Getting Started 🚀
